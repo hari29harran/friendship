@@ -1,0 +1,86 @@
+.navbar
+{
+  color:white;
+  font-size: 30px;
+    font-style: italic;
+    background-color: #003366;
+}
+.navbar a{
+  font-size: 20px;
+  cursor: pointer;
+  text-decoration: none;
+  color:white;
+}
+.form-group { 
+  position:relative;
+  padding:0;
+  margin:0;
+}
+.form {
+  
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #003366;
+  width: 350px;
+  border-radius:5px;
+}
+.form-fields
+{
+    border:none;
+    border-bottom:1px solid black;
+    background:transparent;
+    outline:none;
+    height:40px;
+    width:100%;
+    color:black;
+    font-size:16px;
+    opacity:1;
+    margin:0;
+    padding-left:50px;
+    font-style: italic;
+}
+.form-control
+{
+    height:50px;
+    width:100%;
+    color:black;
+    font-size:16px;
+    opacity:1;
+    margin:0;
+    padding-left:50px;
+    font-style: italic;
+}
+::placeholder
+{
+  color: black;
+}
+.input_img {
+    position:absolute;
+    bottom:10px;
+    left:5px;
+    width:30px;
+    height:30px;
+}
+.friend-btn
+{
+    background-color: #003366;  
+    color:white;
+    border-radius: 50px;
+    height:40px;
+    font-size: 18px;
+    font-style: italic;
+}
+.footer
+{
+  background-color: #003366;
+    color:white;
+    font-style: italic;
+    text-align: center;
+}
+ 
+  
+  
+  
+  
+
